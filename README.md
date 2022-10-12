@@ -1,6 +1,6 @@
 # vgmsplit: Program to record channels from chiptune files
 
-Modified to compile on macOS 10.15.7 via CMake (and possibly Linux. Haven't tested). This is still a WIP. Uses a modified version of mpyne's [Game Music Emu 0.6.3 (latest version as of 2022)](https://bitbucket.org/mpyne/game-music-emu)
+Modified to compile on macOS 10.15.7 via CMake (and possibly Linux and Windows. Haven't tested). This is still a WIP. Uses a modified version of mpyne's [Game Music Emu 0.6.3 (latest version as of 2022)](https://bitbucket.org/mpyne/game-music-emu)
 
 
 ## Original readme
