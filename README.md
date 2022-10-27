@@ -2,8 +2,18 @@
 
 Modified to compile on macOS 10.15.7 via CMake (and possibly Linux and Windows. Haven't tested). This is still a WIP. Uses a modified version of mpyne's [Game Music Emu 0.6.3 (latest version as of 2022)](https://bitbucket.org/mpyne/game-music-emu)
 
+## Usage
+You will have to build the game-music-emu binary first via CMake before building the main vgmsplit binary:
 
-## Original readme
+```
+cd game-music-emu
+make
+cd ..
+make
+```
+
+
+# Original readme
 
 
 `vgmsplit` is an improved fork of `towave rel1` by icesoldier (source code of rel2 and rel3 were never uploaded).
