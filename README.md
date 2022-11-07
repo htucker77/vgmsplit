@@ -6,6 +6,7 @@ Modified to compile on macOS 10.15.7 via CMake (and possibly Linux and Windows. 
 You will have to build the game-music-emu binary first via CMake before building the main vgmsplit binary:
 
 ```
+git clone https://github.com/htucker77/vgmsplit.git
 cd game-music-emu
 make
 cd ..
