@@ -7,6 +7,7 @@ You will have to build the game-music-emu binary first via CMake before building
 
 ```
 git clone https://github.com/htucker77/vgmsplit.git
+cd vgmsplit
 cd game-music-emu
 make
 cd ..
